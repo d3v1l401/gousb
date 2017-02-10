@@ -59,7 +59,7 @@ Installation on Windows
 
 Dependencies
 ------------
-- Gcc (only tested on [Win-Builds](http://win-builds.org/), but any MSYS, CYGWIN, MINGW should be worked
+- Gcc (only tested on [Win-Builds](http://win-builds.org/), but any MSYS, CYGWIN, MINGW should be working
 - [libusb-1.0](http://sourceforge.net/projects/libusb/files/libusb-1.0/)
 
 Build
